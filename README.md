@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandleon
 - 👀 I’m interested in pensions, fintech, Salesforce Development
-- 🌱 I’m currently learning Apex/Java for Salesforce, Python for beginners.
+- 🌱 I’m currently learning Apex/Java for Salesforce.
 
 
 
